@@ -8,7 +8,7 @@
 [![GitHub MendezJoseMiguel](https://img.shields.io/github/followers/MendezJoseMiguel?style=social)](https://github.com/MendezJoseMiguel)
 
 
-### <img src="https://media.giphy.com/media/9JAzEh6DRgHdWIL4u3/giphy-downsized-large.gif" width="90">Un Poco sobre mi...  
+### <img src="https://media.giphy.com/media/26n6GfmpNiRWHCqFG/giphy.gif" width="90">Un Poco sobre mi...  
 
 ```javascript
 const jose = {
