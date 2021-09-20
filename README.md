@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hola, Soy Jose Miguel Mendez! <img src="https://media1.giphy.com/media/4ExWdLKTCaz16/200w.webp" width="50"></h2>
+<img align='right' src="https://media0.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="230">
+<p><em>Desarrollador Full Stack Python <span>Trainee</span> <a href="https://talentodigitalparachile.cl">Talento Digital para Chile</a><img src="https://media3.giphy.com/media/vWdc7bLSpMWgIJjBNs/giphy.gif" width="30"></br> 
+</em></p>
 
-<!--
-**MendezJoseMiguel/MendezJoseMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: JoseMiguelMendez](https://img.shields.io/badge/-JoseMendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/josemiguel-mendez)](www.linkedin.com/in/josemiguel-mendez)
+[![GitHub MendezJoseMiguel](https://img.shields.io/github/followers/MendezJoseMiguel?style=social)](https://github.com/MendezJoseMiguel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/9JAzEh6DRgHdWIL4u3/giphy-downsized-large.gif" width="100">Un Poco sobre mi...  
+
+```javascript
+const jose = {
+  code: [HTML, CSS, Python, Javascript, MySQL],
+  tools: [Jquery, BootStrap, AJAX, Django, GIT],
+  soft skills: [Resiliente, Comunicacion Efectiva, Espiritu Colaborativo, Aprendizaje Continuo, Empatico ]
+}
+```
