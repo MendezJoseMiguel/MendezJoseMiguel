@@ -5,9 +5,9 @@
 
 
 [![Linkedin: JoseMiguelMendez](https://img.shields.io/badge/-JoseMendez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/josemiguel-mendez)](www.linkedin.com/in/josemiguel-mendez)
-[![GitHub MendezJoseMiguel](https://img.shields.io/github/followers/MendezJoseMiguel?style=social)](https://github.com/MendezJoseMiguel)
+[![GitHub MendezJoseMiguel](https://img.shields.io/github/followers/MendezJoseMiguel?style=social)](https://github.com/MendezJoseMiguel)</br>
 
-
+</br>
  <img src="https://media.giphy.com/media/26n6GfmpNiRWHCqFG/giphy.gif" width="60">Un Poco sobre mi...  
 
 ```javascript
